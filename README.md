@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elisson-R
-- 👀 I’m interested in share my knowledge, learn with comunity and looking for an oportunity of Jr. python developer job.
-- 🌱 I’m currently learning python with some famous frameworks and libraries 
+- 👀 I’m interested in share my knowledge, learn with comunity and looking for an oportunity of Jr. Python developer job.
+- 🌱 I’m currently learning python and with some famous frameworks and libraries 
 - 💞️ I’m looking to collaborate on with my studies and my projects to someone looking usefull.
 - 📫 How to reach me:
 - email - elisson.ciencia@gmail.com
